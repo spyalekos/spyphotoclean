@@ -73,16 +73,6 @@ uv run main.py
 
 ---
 
-## 🏗️ Δημιουργία Εκτελέσιμου (.exe)
-
-```bash
-# Με PyInstaller (ενιαίο αρχείο)
-uv run pyinstaller --onefile --noconsole --name SpyPhotoClean main.py
-```
-
-Το εκτελέσιμο θα δημιουργηθεί στον φάκελο `dist/`.
-
----
 
 ## 🔧 Αντιμετώπιση Προβλημάτων
 
