@@ -4,4 +4,6 @@ build/
 dist/
 *.pyc
 .agents/
+resume.bat
+
 
